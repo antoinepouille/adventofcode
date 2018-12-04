@@ -1,0 +1,6 @@
+[package]
+name = "dec4"
+version = "0.1.0"
+authors = ["Antoine Pouille <m.pouille.antoine@gmail.com>"]
+
+[dependencies]
